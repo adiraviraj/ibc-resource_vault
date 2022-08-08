@@ -6,17 +6,17 @@ A repository for resources on learning about IBC
 
 ## Reads 📘
 
-### Beginner 🔥
+#### Beginner 🔥
 
 - [ELI5: What is IBC?](https://medium.com/cosmos-blockchain/eli5-what-is-ibc-a212f518715f)
 
 
 
-### Intermediate 🔥🔥
+#### Intermediate 🔥🔥
 
 
 
-### Advanced 🔥🔥🔥
+#### Advanced 🔥🔥🔥
 
 - [IBC whitepaper by Christopher Goes](https://ibcprotocol.org/documentation) 
 
