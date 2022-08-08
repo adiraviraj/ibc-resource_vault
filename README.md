@@ -1,27 +1,36 @@
-# ibc-resources
+# Everything IBC - Inter Blockchain Communication
 A repository for resources on learning about IBC
 
 
 
 
-## Resources :blue-book:
+## Reads 📘
 
-### Beginner
+### Beginner 🔥
 
 - [ELI5: What is IBC?](https://medium.com/cosmos-blockchain/eli5-what-is-ibc-a212f518715f)
 
 
 
-## Articles, Papers
+### Intermediate 🔥🔥
 
-- [Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8) by Dmitriy Berenzon
 
-## Podcasts, Videos
 
-- [Axelar: Solving Interoperability across Blockchains](https://www.youtube.com/watch?v=m2RF_yWE6xo) - An overview of Axelar
+### Advanced 🔥🔥🔥
 
-## Tutorials
+- [IBC whitepaper by Christopher Goes](https://ibcprotocol.org/documentation) 
 
-- [Cross-chain testing with Foundry](https://twitter.com/hexonaut/status/1545845549328465932) - Example on cross-chain testing with Foundry
+
+
+## Podcasts, Videos 📺
+
+- [IBC Explained to Cosmonauts: Episode 1](https://www.youtube.com/watch?v=dYuTYykRhH4&t=2s)
+- [IBC Explained to Cosmonauts: Episode 2](https://www.youtube.com/watch?v=LVm-vyy75Hc)
+- [Blockchain Interoperability using IBC](https://www.youtube.com/watch?v=LVm-vyy75Hc)
+
+
+## Tutorials 🏫
+
+- [Interchain GmbH Workshop: Building a Cross-Chain Application on top of IBC](https://www.youtube.com/watch?v=2nIRfTiaAUw)
 
 
