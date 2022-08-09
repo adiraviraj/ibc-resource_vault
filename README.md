@@ -30,14 +30,14 @@ Website: [ibcprotocol.org](ibcprotocol.org)
 - [A primer on the IBC fee middleware](https://medium.com/@interchain-io/ibc-relaying-as-a-service-the-in-protocol-incentivization-story-9922c7b953f0)
 
 
-## IBC - interconnecting chains beyond the Cosmos Ecosystem ⚛️
+#### IBC - interconnecting chains beyond the Cosmos Ecosystem ⚛️
 
 
 - [Why the Inter-Blockchain Communication protocol (IBC) should expand cross-ecosystem](https://interchain-io.medium.com/why-the-inter-blockchain-communication-protocol-ibc-should-expand-cross-ecosystem-fddfbce1796)
 - [Bringing IBC to NEAR](https://medium.com/composable-finance/bringing-ibc-to-near-our-near-polkadot-bridge-a8954d7ed886)
 
 
-### Further reads 📖
+#### Further reads 📖
 
 - [IBC Beyond Light Clients: Solo Machine](https://medium.com/@interchain-io/ibc-beyond-light-clients-solo-machine-fb55ba0b0234)
 - [Why Interchain Accounts Change Everything for Cosmos Interoperability](https://medium.com/chainapsis/why-interchain-accounts-change-everything-for-cosmos-interoperability-59c19032bf11)
