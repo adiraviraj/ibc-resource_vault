@@ -13,8 +13,6 @@
 
 -----------------------------------------------------------------------------------------
 
-
-
 ## Reads 📚
 
 #### Beginner 🔥
@@ -76,3 +74,16 @@
 - [Canonical repo for IBC](https://github.com/cosmos/ibc)
 - [Canonical repo for ibc-go](https://github.com/cosmos/ibc-go)
 - [How to integrate IBC with your application](https://ibc.cosmos.network/main/ibc/integration.html)
+----------------------------------------------------------------------------------------------------------
+
+## Block explorers / Dashboard ⛓️
+- [Minstcan](https://hub.mintscan.io/)
+- [IOBscan](https://ibc.iobscan.io/home)
+- [Mapofzones](https://mapofzones.com/?testnet=false&period=24)
+
+----------------------------------------------------------------------------------------------------------
+
+## Community 🧑‍🤝‍🧑
+- [IBC techincal/security announcements](https://t.me/ibc_is_expansive)
+- [Discord - IBC Gang](https://discord.com/invite/MkvKh6jpsA)
+- [Cosmos community discord](https://discord.com/invite/W8trcGV)
