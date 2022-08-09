@@ -60,7 +60,7 @@
 ----------------------------------------------------------------------------------------------------------
 
 ## Developer resources 💻
-### Tutorials 🏫
+#### Tutorials 🏫
 
 - [Developer Portal - IBC](https://tutorials.cosmos.network/academy/4-ibc/)
 - [Interchain GmbH Workshop: Building a Cross-Chain Application on top of IBC](https://www.youtube.com/watch?v=2nIRfTiaAUw)
@@ -68,8 +68,14 @@
 - [How to use IBC with CosmWasm](https://www.youtube.com/watch?v=cG1lpAwK1sc&t=1018s)
 
 
+#### CosmWasm 💥
+- [Official CosmWasm docs](https://docs.cosmwasm.com/docs/1.0/)
+- [Terra Academy - CosmWasm](https://academy.terra.money/courses/cosmwasm-smart-contracts-i)
+- [CosmWasm: Zero to Hero](https://github.com/Callum-A/cosmwasm-zero-to-hero)
 
-### Documentation / Github repo 📘
+
+
+#### Documentation / Github repo 📘
 
 - [Canonical repo for IBC](https://github.com/cosmos/ibc)
 - [Canonical repo for ibc-go](https://github.com/cosmos/ibc-go)
