@@ -1,5 +1,5 @@
 # Everything IBC - Inter Blockchain Communication
-A repository for resources on learning about IBC
+A comprehensive repository for IBC learning resources
 
 Website: [ibcprotocol.org](ibcprotocol.org)
 
@@ -52,3 +52,4 @@ Website: [ibcprotocol.org](ibcprotocol.org)
 
 - [Canonical repo for IBC](https://github.com/cosmos/ibc)
 - [Canonical repo for ibc-go](https://github.com/cosmos/ibc-go)
+- [How to integrate IBC with your application](https://ibc.cosmos.network/main/ibc/integration.html)
