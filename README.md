@@ -16,6 +16,7 @@
 #### Beginner 🔥
 
 - [ELI5: What is IBC?](https://medium.com/cosmos-blockchain/eli5-what-is-ibc-a212f518715f)
+- [Deep Dive: How Will IBC Create Value for the Cosmos Hub?](https://blog.cosmos.network/deep-dive-how-will-ibc-create-value-for-the-cosmos-hub-eedefb83c7a0)
 
 
 
