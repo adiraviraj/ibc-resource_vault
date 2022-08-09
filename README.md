@@ -48,6 +48,7 @@
 - [IBC Beyond Light Clients: Solo Machine](https://medium.com/@interchain-io/ibc-beyond-light-clients-solo-machine-fb55ba0b0234)
 - [Why Interchain Accounts Change Everything for Cosmos Interoperability](https://medium.com/chainapsis/why-interchain-accounts-change-everything-for-cosmos-interoperability-59c19032bf11)
 - [IBC and XCMP: A Comparison of Interoperability Protocols](https://medium.com/@interchain-io/ibc-and-xcmp-a-comparison-of-interoperability-protocols-3d1700e30015)
+- [Interchain Security - Cross Chain Validation]([https://twitter.com/cosmosibc](https://github.com/cosmos/gaia/blob/724e2bd792ed1c1e4f8795db0f9c2f2dd8e18a9f/docs/interchain-security.md#ibc--cross-chain-validation))
 ---------------------------------------------------------------------------------------------------------
 
 ## Podcasts / Videos  📺
