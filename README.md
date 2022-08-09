@@ -17,6 +17,7 @@ Website: [ibcprotocol.org](ibcprotocol.org)
 
 #### Intermediate 🔥🔥
 
+- [Cosmos Developer Portal: IBC Explained](https://interchainacademy.cosmos.network/academy/ibc/what-is-ibc.html)
 - [Everything you need to know about the Tendermint light client](https://medium.com/tendermint/everything-you-need-to-know-about-the-tendermint-light-client-f80d03856f98)
 - [A primer on Interchain Accounts](https://medium.com/@interchain-io/welcome-to-the-ibc-gang-lets-talk-f469883e0ffe)
 - [IBC: A Core Primitive for Interchain Native Products](https://medium.com/@interchain-io/ibc-a-core-primitive-for-interchain-native-products-38d73519cd66)
@@ -27,6 +28,20 @@ Website: [ibcprotocol.org](ibcprotocol.org)
 
 - [IBC whitepaper by Christopher Goes](https://ibcprotocol.org/documentation) 
 - [A primer on the IBC fee middleware](https://medium.com/@interchain-io/ibc-relaying-as-a-service-the-in-protocol-incentivization-story-9922c7b953f0)
+
+
+## IBC - interconnecting chains beyond the Cosmos Ecosystem ⚛️
+
+
+- [Why the Inter-Blockchain Communication protocol (IBC) should expand cross-ecosystem](https://interchain-io.medium.com/why-the-inter-blockchain-communication-protocol-ibc-should-expand-cross-ecosystem-fddfbce1796)
+- [Bringing IBC to NEAR](https://medium.com/composable-finance/bringing-ibc-to-near-our-near-polkadot-bridge-a8954d7ed886)
+
+
+### Further reads 📖
+
+- [IBC Beyond Light Clients: Solo Machine](https://medium.com/@interchain-io/ibc-beyond-light-clients-solo-machine-fb55ba0b0234)
+- [Why Interchain Accounts Change Everything for Cosmos Interoperability](https://medium.com/chainapsis/why-interchain-accounts-change-everything-for-cosmos-interoperability-59c19032bf11)
+- [IBC and XCMP: A Comparison of Interoperability Protocols](https://medium.com/@interchain-io/ibc-and-xcmp-a-comparison-of-interoperability-protocols-3d1700e30015)
 ---------------------------------------------------------------------------------------------------------
 
 
