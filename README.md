@@ -57,7 +57,9 @@
 - [IBC Explained to Cosmonauts: Episode 2](https://www.youtube.com/watch?v=LVm-vyy75Hc)
 - [Blockchain Interoperability using IBC](https://www.youtube.com/watch?v=LVm-vyy75Hc)
 - [How the Inter-Blockchain Communication Standard Is Shaping an Interoperable Future](https://www.youtube.com/watch?v=9CGalMjmCzw)
+- [IBC: Interoperability for Cosmos and Beyond](https://www.youtube.com/watch?v=SE9KH2Awoj4)
 - [IBC Design](https://www.youtube.com/watch?v=SKyEC3BYDUg)
+- [Cross-Chain Messaging With Interchain Accounts](https://www.youtube.com/watch?v=hi7mCCdfm90)
 ----------------------------------------------------------------------------------------------------------
 
 ## Developer resources 💻
