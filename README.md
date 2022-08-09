@@ -40,6 +40,7 @@
 
 - [Why the Inter-Blockchain Communication protocol (IBC) should expand cross-ecosystem](https://interchain-io.medium.com/why-the-inter-blockchain-communication-protocol-ibc-should-expand-cross-ecosystem-fddfbce1796)
 - [Bringing IBC to NEAR](https://medium.com/composable-finance/bringing-ibc-to-near-our-near-polkadot-bridge-a8954d7ed886)
+- [IBC: Expanding Polkadot’s Interoperability](https://www.coinbase.com/cloud/discover/insights-analysis/ibc-polkadot-interoperability)
 
 
 #### Further reads 📑
