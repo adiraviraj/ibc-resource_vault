@@ -6,7 +6,7 @@
    
   </p>
  
-  <p align="center">A comprehensive repository for resources to learn and use IBC</p>
+  <p align="center">A comprehensive repository for resources on IBC</p>
   <p align="center"> Website: https://ibcprotocol.org/ </p>
 
 </div>
@@ -53,7 +53,7 @@
 ---------------------------------------------------------------------------------------------------------
 
 
-## Podcasts, Videos 📺
+## Podcasts / Videos  📺
 
 - [IBC Explained to Cosmonauts: Episode 1](https://www.youtube.com/watch?v=dYuTYykRhH4&t=2s)
 - [IBC Explained to Cosmonauts: Episode 2](https://www.youtube.com/watch?v=LVm-vyy75Hc)
