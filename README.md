@@ -1,6 +1,8 @@
 # Everything IBC - Inter Blockchain Communication
 A repository for resources on learning about IBC
 
+Website: [ibcprotocol.org](ibcprotocol.org)
+
 
 
 
@@ -29,8 +31,17 @@ A repository for resources on learning about IBC
 - [Blockchain Interoperability using IBC](https://www.youtube.com/watch?v=LVm-vyy75Hc)
 
 
-## Tutorials 🏫
+## Developer resources
+### Tutorials 🏫
 
+- [Developer Portal - IBC](https://tutorials.cosmos.network/academy/4-ibc/)
 - [Interchain GmbH Workshop: Building a Cross-Chain Application on top of IBC](https://www.youtube.com/watch?v=2nIRfTiaAUw)
+- [How to use the Hermes Relayer](https://www.youtube.com/watch?v=cG1lpAwK1sc&t=1018s)
+- [How to use IBC with CosmWasm](https://www.youtube.com/watch?v=cG1lpAwK1sc&t=1018s)
 
 
+
+### Documentation / Github repo
+
+- [Canonical repo for IBC](https://github.com/cosmos/ibc)
+- [Canonical repo for ibc-go](https://github.com/cosmos/ibc-go)
