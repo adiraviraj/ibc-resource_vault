@@ -1,9 +1,7 @@
 <div align="center">
   <img alt="IBC_logo" src="IBC_logo.png" width="500">
   <h1 align="center">Everything IBC - Inter Blockchain Communication</h1>
-  <p align="center">
-
-   
+  <p align="center">   
   </p>
  
   <p align="center">A comprehensive repository for resources on IBC</p>
@@ -43,13 +41,12 @@
 - [Bringing IBC to NEAR](https://medium.com/composable-finance/bringing-ibc-to-near-our-near-polkadot-bridge-a8954d7ed886)
 
 
-#### Further reads 📖
+#### Further reads 📑
 
 - [IBC Beyond Light Clients: Solo Machine](https://medium.com/@interchain-io/ibc-beyond-light-clients-solo-machine-fb55ba0b0234)
 - [Why Interchain Accounts Change Everything for Cosmos Interoperability](https://medium.com/chainapsis/why-interchain-accounts-change-everything-for-cosmos-interoperability-59c19032bf11)
 - [IBC and XCMP: A Comparison of Interoperability Protocols](https://medium.com/@interchain-io/ibc-and-xcmp-a-comparison-of-interoperability-protocols-3d1700e30015)
 ---------------------------------------------------------------------------------------------------------
-
 
 ## Podcasts / Videos  📺
 
@@ -72,7 +69,6 @@
 - [Official CosmWasm docs](https://docs.cosmwasm.com/docs/1.0/)
 - [Terra Academy - CosmWasm](https://academy.terra.money/courses/cosmwasm-smart-contracts-i)
 - [CosmWasm: Zero to Hero](https://github.com/Callum-A/cosmwasm-zero-to-hero)
-
 
 
 #### Documentation / Github repo 📘
