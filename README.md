@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="IBC_logo" src="IBC_logo.png" width="500">
-  <h1 align="center">Everything IBC - Inter Blockchain Communication</h1>
+  <h1 align="center">Inter Blockchain Communication - Resource Vault</h1>
   <p align="center">   
   </p>
  
