@@ -35,7 +35,7 @@
 - [A primer on the IBC fee middleware](https://medium.com/@interchain-io/ibc-relaying-as-a-service-the-in-protocol-incentivization-story-9922c7b953f0)
 
 
-#### IBC - interconnecting chains beyond the Cosmos Ecosystem ⚛️
+#### IBC - Interconnecting chains beyond the Cosmos Ecosystem ⚛️
 
 
 - [Why the Inter-Blockchain Communication protocol (IBC) should expand cross-ecosystem](https://interchain-io.medium.com/why-the-inter-blockchain-communication-protocol-ibc-should-expand-cross-ecosystem-fddfbce1796)
@@ -47,6 +47,7 @@
 
 - [IBC Beyond Light Clients: Solo Machine](https://medium.com/@interchain-io/ibc-beyond-light-clients-solo-machine-fb55ba0b0234)
 - [Why Interchain Accounts Change Everything for Cosmos Interoperability](https://medium.com/chainapsis/why-interchain-accounts-change-everything-for-cosmos-interoperability-59c19032bf11)
+- [How Interchain Accounts improve the UX of apps in the Cosmos ecosystem](https://www.coinbase.com/cloud/discover/insights-analysis/interchain-accounts-cosmos)
 - [IBC and XCMP: A Comparison of Interoperability Protocols](https://medium.com/@interchain-io/ibc-and-xcmp-a-comparison-of-interoperability-protocols-3d1700e30015)
 - [Interchain Security - Cross Chain Validation](https://github.com/cosmos/gaia/blob/724e2bd792ed1c1e4f8795db0f9c2f2dd8e18a9f/docs/interchain-security.md#ibc--cross-chain-validation)
 ---------------------------------------------------------------------------------------------------------
