@@ -74,6 +74,14 @@
 ----------------------------------------------------------------------------------------------------------
 
 ## Developer resources 💻
+
+#### Documentation / Github repo 📘
+
+- [ibc-go roadmap](https://github.com/cosmos/ibc-go/blob/main/docs/roadmap/roadmap.md)
+- [Canonical repo for IBC](https://github.com/cosmos/ibc)
+- [Canonical repo for ibc-go](https://github.com/cosmos/ibc-go)
+- [How to integrate IBC with your application](https://ibc.cosmos.network/main/ibc/integration.html)
+
 #### Tutorials 🏫
 
 - [Developer Portal - IBC](https://tutorials.cosmos.network/academy/4-ibc/)
@@ -88,12 +96,6 @@
 - [CosmWasm: Zero to Hero](https://github.com/Callum-A/cosmwasm-zero-to-hero)
 
 
-#### Documentation / Github repo 📘
-
-- [ibc-go roadmap](https://github.com/cosmos/ibc-go/blob/main/docs/roadmap/roadmap.md)
-- [Canonical repo for IBC](https://github.com/cosmos/ibc)
-- [Canonical repo for ibc-go](https://github.com/cosmos/ibc-go)
-- [How to integrate IBC with your application](https://ibc.cosmos.network/main/ibc/integration.html)
 ----------------------------------------------------------------------------------------------------------
 
 ## Block explorers / Dashboard ⛓️
