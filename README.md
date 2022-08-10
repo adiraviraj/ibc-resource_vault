@@ -28,12 +28,14 @@
 - [A comprehensive study on IBC relayers](https://medium.com/@interchain-io/relaying-the-message-a-deep-dive-into-ibc-relayer-operations-6ff763a2a22f)
 
 
+
 #### Understanding IBC: Advanced 🔥🔥🔥
 
 - [IBC whitepaper by Christopher Goes](https://ibcprotocol.org/documentation) 
 
 
-#### IBC-level applications and features
+
+#### IBC-level applications and features 🖥️
 - [A primer on Interchain Accounts](https://medium.com/@interchain-io/welcome-to-the-ibc-gang-lets-talk-f469883e0ffe)
 - [Why Interchain Accounts Change Everything for Cosmos Interoperability](https://medium.com/chainapsis/why-interchain-accounts-change-everything-for-cosmos-interoperability-59c19032bf11)
 - [How Interchain Accounts improve the UX of apps in the Cosmos ecosystem](https://www.coinbase.com/cloud/discover/insights-analysis/interchain-accounts-cosmos)
@@ -41,11 +43,13 @@
 - [A primer on the IBC fee middleware](https://medium.com/@interchain-io/ibc-relaying-as-a-service-the-in-protocol-incentivization-story-9922c7b953f0)
 
 
+
 #### IBC - Interconnecting chains beyond the Cosmos Ecosystem ⚛️
 
 - [Why the Inter-Blockchain Communication protocol (IBC) should expand cross-ecosystem](https://interchain-io.medium.com/why-the-inter-blockchain-communication-protocol-ibc-should-expand-cross-ecosystem-fddfbce1796)
 - [Bringing IBC to NEAR](https://medium.com/composable-finance/bringing-ibc-to-near-our-near-polkadot-bridge-a8954d7ed886)
 - [IBC: Expanding Polkadot’s Interoperability](https://www.coinbase.com/cloud/discover/insights-analysis/ibc-polkadot-interoperability)
+
 
 
 #### Further reads 📑
@@ -62,6 +66,7 @@
 - [IBC Explained to Cosmonauts: Episode 1](https://www.youtube.com/watch?v=dYuTYykRhH4&t=2s)
 - [IBC Explained to Cosmonauts: Episode 2](https://www.youtube.com/watch?v=LVm-vyy75Hc)
 - [Blockchain Interoperability using IBC](https://www.youtube.com/watch?v=LVm-vyy75Hc)
+- [Interblockchain communication IBC Part 1: Composability for Developing a Powerful Public Blockchain](https://www.youtube.com/watch?v=m_b_Noe70Vc&t=1170s)
 - [How the Inter-Blockchain Communication Standard Is Shaping an Interoperable Future](https://www.youtube.com/watch?v=9CGalMjmCzw)
 - [IBC: Interoperability for Cosmos and Beyond](https://www.youtube.com/watch?v=SE9KH2Awoj4)
 - [IBC Design](https://www.youtube.com/watch?v=SKyEC3BYDUg)
