@@ -49,6 +49,8 @@
 - [Why Interchain Accounts Change Everything for Cosmos Interoperability](https://medium.com/chainapsis/why-interchain-accounts-change-everything-for-cosmos-interoperability-59c19032bf11)
 - [How Interchain Accounts improve the UX of apps in the Cosmos ecosystem](https://www.coinbase.com/cloud/discover/insights-analysis/interchain-accounts-cosmos)
 - [IBC and XCMP: A Comparison of Interoperability Protocols](https://medium.com/@interchain-io/ibc-and-xcmp-a-comparison-of-interoperability-protocols-3d1700e30015)
+- [A Comparison of Heterogeneous Blockchain Networks](https://medium.com/@arikan/a-comparison-of-heterogeneous-blockchain-networks-4bf7ff2fe279)
+- [Flavors of Standalone Multichain Architecture](https://jumpcrypto.com/flavors-of-standalone-multichain-architecture-2/)
 - [Interchain Security - Cross Chain Validation](https://github.com/cosmos/gaia/blob/724e2bd792ed1c1e4f8795db0f9c2f2dd8e18a9f/docs/interchain-security.md#ibc--cross-chain-validation)
 ---------------------------------------------------------------------------------------------------------
 
